@@ -11,7 +11,7 @@ I am a third-year Computer Science undergraduate with a specialization in Machin
 
 In the summer of 2025, I will be joining the National University of Singapore (NUS) as a Research Intern, working with [Hannah Brown]() in the John AI Lab led by [Prof. Michael Qizhe Shieh.]() 
 
-Previously, I interned at the [IEEE Robotics Automation Society]() and was a part of [Center for Data Sciences and Applied Machine Learning]() (CDSAML) at PES University, where I deepened my expertise in large language models (LLMs).
+Previously, I interned at the [IEEE Robotics Automation Society](https://ieee-ras-pesu.github.io/website/) and was a part of [Center for Data Sciences and Applied Machine Learning](https://research.pes.edu/center-for-data-sciences-and-applied-machine-learning/) (CDSAML) at PES University, where I deepened my expertise in large language models (LLMs).
 
 My Bachelor’s thesis, supervised by Dr. Surabhi Narayan, explores bias quantification and mitigation in multimodal models, focusing on vision-language systems.
 
