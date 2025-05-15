@@ -7,17 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Computer Science undergraduate with a specialization in Machine Intelligence and Data Science at PES University, Bangalore. My research interests are in Machine Learning and Natural Language Processing (NLP) and Computer Vision.
+I’m a third-year Computer Science undergraduate at PES University, Bangalore, specializing in Machine Intelligence and Data Science. My primary research interests lie in Machine Learning, Natural Language Processing (NLP), and Computer Vision.
 
-In the summer of 2025, I will be joining the National University of Singapore (NUS) as a Research Intern, working with [Hannah Brown]() in the John AI Lab led by [Prof. Michael Qizhe Shieh.]() 
+In the summer of 2025, I’m excited to join the National University of Singapore (NUS) as a Research Intern, working with [Hannah Brown]() in the John AI Lab led by [Prof. Michael Qizhe Shieh.]() 
 
 Previously, I interned at the [IEEE Robotics Automation Society](https://ieee-ras-pesu.github.io/website/) and was a part of [Center for Data Sciences and Applied Machine Learning](https://research.pes.edu/center-for-data-sciences-and-applied-machine-learning/) (CDSAML) at PES University, where I deepened my expertise in large language models (LLMs).
 
 My Bachelor’s thesis, supervised by Dr. Surabhi Narayan, explores bias quantification and mitigation in multimodal models, focusing on vision-language systems.
 
-Outside of research, I'm a trained Carnatic music vocalist with a deep passion for South Indian classical music.
+Outside of research, I'm a trained Carnatic music vocalist with a deep passion for classical music.
 
-Check out my CV or browse my projects and publications for more details! I’m always eager to collaborate on interesting research projects — feel free to reach out if you'd like to connect or work together!
+I’m always eager to collaborate on interesting research projects — feel free to reach out if you'd like to connect or work together!
 
 
 
