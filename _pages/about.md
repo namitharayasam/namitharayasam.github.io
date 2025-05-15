@@ -9,7 +9,7 @@ redirect_from:
 
 I’m a third-year Computer Science undergraduate at PES University, Bangalore, specializing in Machine Intelligence and Data Science. My primary research interests lie in Machine Learning, Natural Language Processing (NLP), and Computer Vision.
 
-In the summer of 2025, I’m excited to join the National University of Singapore (NUS) as a Research Intern, working with [Hannah Brown]() in the John AI Lab led by [Prof. Michael Qizhe Shieh.]() 
+In the summer of 2025, I’m excited to join the National University of Singapore (NUS) as a Research Intern, working with [Hannah Brown]() in the John AI Lab, led by [Prof. Michael Qizhe Shieh.]() 
 
 Previously, I interned at the [IEEE Robotics Automation Society](https://ieee-ras-pesu.github.io/website/) and was a part of [Center for Data Sciences and Applied Machine Learning](https://research.pes.edu/center-for-data-sciences-and-applied-machine-learning/) (CDSAML) at PES University, where I deepened my expertise in large language models (LLMs).
 
