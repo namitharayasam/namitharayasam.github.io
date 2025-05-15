@@ -17,9 +17,7 @@ My Bachelor’s thesis, supervised by Dr. Surabhi Narayan, explores bias quantif
 
 Outside of research, I'm a trained Carnatic music vocalist with a deep passion for South Indian classical music.
 
-Check out my CV or browse my projects and publications for more details!
-
-I’m always eager to collaborate on interesting research projects — feel free to reach out if you'd like to connect or work together!
+Check out my CV or browse my projects and publications for more details! I’m always eager to collaborate on interesting research projects — feel free to reach out if you'd like to connect or work together!
 
 
 
