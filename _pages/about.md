@@ -13,8 +13,6 @@ In the summer of 2025, I will be joining the National University of Singapore (N
 
 Previously, I interned at the [IEEE Robotics Automation Society]() and was a part of [Center for Data Sciences and Applied Machine Learning]() (CDSAML) at PES University, where I deepened my expertise in large language models (LLMs).
 
-Outside of research, you can find me looking for new ways to ride a bicycle around Singapore, reading, or practicing Aikido.
-
 My Bachelor’s thesis, supervised by Dr. Surabhi Narayan, explores bias quantification and mitigation in multimodal models, focusing on vision-language systems.
 
 Outside of research, I'm a trained Carnatic music vocalist with a deep passion for South Indian classical music.
@@ -25,7 +23,7 @@ I’m always eager to collaborate on interesting research projects — feel free
 
 
 
-Getting started
+<!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
@@ -57,3 +55,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ -->
