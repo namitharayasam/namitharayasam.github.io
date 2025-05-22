@@ -22,12 +22,12 @@ repository               : "namitharayasam/namitharayasam.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   name             : "Namitha Rayasam"
   pronouns         : # example: "she/her"  
   bio              : "Undergradute at PES University"
   location         : "Bengaluru, India"
-  employer         : "PES University"
+  # employer         : "PES University"
   uri              : # URL
   email            : "rayasam.namitha@gmail.com" 
 
