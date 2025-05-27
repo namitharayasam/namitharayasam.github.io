@@ -26,15 +26,13 @@ Work experience
 * Summer 2023: Project Intern
   * Sentiac Robotics
 
+* Centre for Data Science and Applied Machine Learning (CDSAML)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, C/C++, Matlab, SQL
+* Frameworks: TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV, ROS2, NLTK, SpaCy
+* Big Data & Cloud: Hadoop, Spark Streaming, Kafka, Docker, AWS
 
 Publications
 ======
