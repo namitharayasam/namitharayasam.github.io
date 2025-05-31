@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I’m a third-year Computer Science undergraduate at PES University, Bangalore, specializing in Machine Intelligence and Data Science. My primary research interests lie in Machine Learning, Natural Language Processing (NLP), and Computer Vision. (Graduating in Spring 2026)
+I’m a third-year Computer Science undergraduate at PES University, Bangalore, specializing in Machine Intelligence and Data Science (Graduating in Spring 2026). My primary research interests lie in Machine Learning, and Computer Vision. 
 
-In the summer of 2025, I’m excited to join the National University of Singapore (NUS) as a Research Intern, working with [Hannah Brown](https://hannah-aught.github.io/) in the John AI Lab, led by Prof. [Michael Qizhe Shieh.](https://www.comp.nus.edu.sg/cs/people/mshieh/) 
+In the summer of 2025, I’m excited to join the National University of Singapore (NUS) as a Research Intern, working with [Hannah Brown](https://hannah-aught.github.io/) in the John AI Lab, led by [Prof. Michael Qizhe Shieh.](https://www.comp.nus.edu.sg/cs/people/mshieh/) 
 
 Previously, I interned at the [IEEE Robotics Automation Society](https://ieee-ras-pesu.github.io/website/) and was a part of [Center for Data Sciences and Applied Machine Learning](https://research.pes.edu/center-for-data-sciences-and-applied-machine-learning/) (CDSAML) at PES University, where I deepened my expertise in large language models (LLMs).
 
-My Bachelor’s thesis, supervised by Prof. Surabhi Narayan, explores bias quantification and mitigation in multimodal models, focusing on vision-language systems.
+My Bachelor’s thesis, supervised by Prof. Surabhi Narayan, investigates modality bias in Vision-Language Models (VLMs) through Partial Information Decomposition (PID), offering a novel performance-agnostic approach to analyze how text and image inputs uniquely and jointly influence model decisions. 
+
+I’ve also worked extensively on robotic perception systems, implementing LiDAR-based SLAM in C++/ROS2 at Sentiac Robotics, and developing autonomous quadcopter navigation systems at the IEEE Robotics and Automation Society.
 
 Outside of research, I'm a trained Carnatic music vocalist with a deep passion for classical music.
 
