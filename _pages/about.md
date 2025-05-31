@@ -11,15 +11,15 @@ I’m a third-year Computer Science undergraduate at PES University, Bangalore, 
 
 In the summer of 2025, I’m excited to join the National University of Singapore (NUS) as a Research Intern, working with [Hannah Brown](https://hannah-aught.github.io/) in the John AI Lab, led by [Prof. Michael Qizhe Shieh.](https://www.comp.nus.edu.sg/cs/people/mshieh/) 
 
-Previously, I interned at the [IEEE Robotics Automation Society](https://ieee-ras-pesu.github.io/website/) and was a part of [Center for Data Sciences and Applied Machine Learning](https://research.pes.edu/center-for-data-sciences-and-applied-machine-learning/) (CDSAML) at PES University, where I deepened my expertise in large language models (LLMs).
+Previously, I interned at the [IEEE Robotics Automation Society (IEEE RAS)](https://ieee-ras-pesu.github.io/website/) and was a part of [Center for Data Sciences and Applied Machine Learning](https://research.pes.edu/center-for-data-sciences-and-applied-machine-learning/) (CDSAML) at PES University, where I deepened my expertise in large language models (LLMs).
 
 My Bachelor’s thesis, supervised by Prof. Surabhi Narayan, investigates modality bias in Vision-Language Models (VLMs) through Partial Information Decomposition (PID), offering a novel performance-agnostic approach to analyze how text and image inputs uniquely and jointly influence model decisions. 
 
-I’ve also worked extensively on robotic perception systems, implementing LiDAR-based SLAM in C++/ROS2 at Sentiac Robotics, and developing autonomous quadcopter navigation systems at the IEEE Robotics and Automation Society.
+I’ve also worked extensively on robotic perception systems, collaborating directly with the founder of Sentiac Robotics, a robotics startup in Bengaluru. My work focused on implementing LiDAR-based SLAM pipelines, enhancing feature tracking for autonomous indoor navigation. At IEEE RAS, I contributed to developing autonomous quadcopter navigation systems for real-time path planning and obstacle avoidance.
 
-Outside of research, I'm a trained Carnatic music vocalist with a deep passion for classical music.
+Outside of research, I'm a trained Carnatic music vocalist with a passion for classical music.
 
-I’m always eager to collaborate on interesting research projects — feel free to reach out if you'd like to connect or work together!
+I’m always excited to collaborate on impactful research projects — feel free to reach out if you'd like to connect or work together!
 
 
 
