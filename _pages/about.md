@@ -9,7 +9,7 @@ redirect_from:
 
 I’m a third-year Computer Science undergraduate at PES University, Bangalore, specializing in Machine Intelligence and Data Science (Graduating in Spring 2026). My primary research interests lie in Machine Learning, and Computer Vision. 
 
-In the summer of 2025, I’m excited to join the National University of Singapore (NUS) as a Research Intern, working with [Hannah Brown](https://hannah-aught.github.io/) in the John AI Lab, led by [Prof. Michael Qizhe Shieh.](https://www.comp.nus.edu.sg/cs/people/mshieh/) 
+In the summer of 2025, I’m excited to join the National University of Singapore (NUS) as a Research Intern, working with [Hannah Brown](https://hannah-aught.github.io/) and advised by [Prof. Michael Qizhe Shieh.](https://www.comp.nus.edu.sg/cs/people/mshieh/) 
 
 Previously, I interned at the [IEEE Robotics Automation Society (IEEE RAS)](https://ieee-ras-pesu.github.io/website/) and was a part of [Center for Data Sciences and Applied Machine Learning](https://research.pes.edu/center-for-data-sciences-and-applied-machine-learning/) (CDSAML) at PES University, where I deepened my expertise in large language models (LLMs).
 
