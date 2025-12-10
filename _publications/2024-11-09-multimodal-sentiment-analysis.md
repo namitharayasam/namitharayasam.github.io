@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 type: "Conference"
 # permalink: /publication/multimodal-sentiment-analysis
-excerpt: 'Developed a novel multimodal sentiment analysis system to detect deception and synthetic identities to enhance integrity in online assessments and virtual interviews by integrating real‐time facial emotion recognition, voice stress analysis, and textual sentiment evaluation.'
+# excerpt: 'Developed a novel multimodal sentiment analysis system to detect deception and synthetic identities to enhance integrity in online assessments and virtual interviews by integrating real‐time facial emotion recognition, voice stress analysis, and textual sentiment evaluation.'
 date: 2024-11-09
 venue: 'Proceedings of the 2024 IEEE 9th International Conference on Computational Intelligence and Applications (ICCIA)'
 
