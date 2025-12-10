@@ -3,6 +3,8 @@ title: "Quantifying Modality Contributions via Disentangling Multimodal Represen
 collection: publications
 category: manuscripts
 type: "Conference"
+# permalink: /publication/quantifying-modality
+date: 2025-11-22
 venue: 'arXiv'
 
 paperurl: 'https://arxiv.org/abs/2511.19470'
