@@ -11,7 +11,7 @@ I’m a third-year Computer Science undergraduate at PES University, Bangalore, 
 
 Currently, I’m exploring Multi-Agent Path Finding (MAPF), working with Rishi Veerapaneni at CMU RI.
 
-In the summer of 2025, I joined [Hannah Brown](https://hannah-aught.github.io/) at the National University of Singapore (NUS) as a Research Intern, advised by [Prof. Michael Qizhe Shieh.](https://www.comp.nus.edu.sg/cs/people/mshieh/) 
+In the summer of 2025, I joined [Hannah Brown](https://hannah-aught.github.io/) at the National University of Singapore, School of Computing, as a Research Intern, advised by [Prof. Michael Qizhe Shieh.](https://www.comp.nus.edu.sg/cs/people/mshieh/) 
 
 My Bachelor’s thesis, supervised by Prof. Surabhi Narayan, investigates modality bias in Vision-Language Models (VLMs) through Partial Information Decomposition (PID), offering an accuracy-agnostic approach to analyze how text and image inputs uniquely and jointly influence model decisions. 
 
