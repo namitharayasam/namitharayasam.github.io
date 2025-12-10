@@ -3,11 +3,7 @@ title: "Quantifying Modality Contributions via Disentangling Multimodal Represen
 collection: publications
 category: manuscripts
 type: "Conference"
-# permalink: /publication/2010-10-01-paper-title-number-2
-# excerpt: ''
-# date: 2010-10-01
 venue: 'arXiv'
-# slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://arxiv.org/abs/2511.19470'
 citation: 'Amit, Padegal, Omkar Mahesh Kashyap, Namitha Rayasam, Nidhi Shekhar, and Surabhi Narayan. "Quantifying Modality Contributions via Disentangling Multimodal Representations." arXiv preprint arXiv:2511.19470 (2025).'
 ---
