@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a third-year Computer Science undergraduate at PES University, Bangalore, specializing in Machine Intelligence and Data Science (Graduating in Spring 2026). My primary research interests lie in Multimodal Learning, LLM Robustness, and Applied Machine Learning. I’ve also worked extensively on robotic perception systems.
+I’m a final-year Computer Science undergraduate at PES University, Bangalore, specializing in Machine Intelligence and Data Science. My primary research interests lie in Multimodal Learning, LLM Robustness, and Applied Machine Learning. I’ve also worked extensively on robotic perception systems.
 
 Currently, I’m exploring Multi-Agent Path Finding (MAPF), working with Rishi Veerapaneni at CMU RI.
 
