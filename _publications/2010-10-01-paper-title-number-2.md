@@ -2,7 +2,7 @@
 title: "Quantifying Modality Contributions via Disentangling Multimodal Representations"
 collection: publications
 
-published: false
+# published: false
 
 category: manuscripts
 # permalink: /publication/2010-10-01-paper-title-number-2
