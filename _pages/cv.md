@@ -17,17 +17,17 @@ Education
 
 Work experience
 ======
-* Currently: Research Collaborator
-  * Carnegie Mellon University
+* Carnegie Mellon University
+  * Currently: Research Collaborator
     
-* Summer 2025: Research Intern
-  * National University of Singapore
+* National University of Singapore
+  * Summer 2025: Research Intern
 
-* Summer 2024: Project Intern
-  * IEEE Robotics and Automation Society
+* IEEE Robotics and Automation Society
+  * Summer 2024: Project Intern
 
-* Summer 2023: Project Intern
-  * Sentiac Robotics
+* Sentiac Robotics
+  * Summer 2023: Project Intern
 
 * Centre for Data Science and Applied Machine Learning (CDSAML)
   
