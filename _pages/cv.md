@@ -17,8 +17,11 @@ Education
 
 Work experience
 ======
+* Currently: Research Collaborator
+  * Carnegie Mellon University
+    
 * Summer 2025: Research Intern
-  * National University of Singapore (NUS)
+  * National University of Singapore
 
 * Summer 2024: Project Intern
   * IEEE Robotics and Automation Society
@@ -40,18 +43,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
