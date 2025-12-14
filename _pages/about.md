@@ -9,7 +9,7 @@ redirect_from:
 
 I’m a final-year Computer Science undergraduate at PES University, Bangalore, specializing in Machine Intelligence and Data Science. My primary research interests lie in Multimodal Learning, LLM Robustness, and Applied Machine Learning. I’ve also worked extensively on robotic perception systems.
 
-Currently, I’m exploring Multi-Agent Path Finding (MAPF), working with Rishi Veerapaneni at Carnegie Mellon University, Robotics Institute.
+Currently, I’m exploring Multi-Agent Path Finding (MAPF), working with Rishi Veerapaneni at Carnegie Mellon University Robotics Institute.
 
 In the summer of 2025, I joined [Hannah Brown](https://hannah-aught.github.io/) at the National University of Singapore, School of Computing, as a Research Intern, advised by [Prof. Michael Qizhe Shieh.](https://www.comp.nus.edu.sg/cs/people/mshieh/) 
 
