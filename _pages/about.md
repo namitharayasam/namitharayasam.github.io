@@ -9,11 +9,11 @@ redirect_from:
 
 I’m a final-year Computer Science undergraduate at PES University, Bangalore, specializing in Machine Intelligence and Data Science. My primary research interests lie in Multimodal Learning, LLM Robustness, and Applied Machine Learning. I’ve also worked extensively on robotic perception systems.
 
-Currently, I’m exploring Multi-Agent Path Finding (MAPF), working with Rishi Veerapaneni at CMU RI.
+Currently, I’m exploring Multi-Agent Path Finding (MAPF), working with Rishi Veerapaneni at Carnegie Mellon University, Robotics Institute.
 
-In the summer of 2025, I joined [Hannah Brown](https://hannah-aught.github.io/) at the National University of Singapore, School of Computing as a Research Intern, advised by [Prof. Michael Qizhe Shieh.](https://www.comp.nus.edu.sg/cs/people/mshieh/) 
+In the summer of 2025, I joined [Hannah Brown](https://hannah-aught.github.io/) at the National University of Singapore, School of Computing, as a Research Intern, advised by [Prof. Michael Qizhe Shieh.](https://www.comp.nus.edu.sg/cs/people/mshieh/) 
 
-My Bachelor’s thesis, supervised by Prof. Surabhi Narayan, investigates modality bias in Vision-Language Models (VLMs) through Partial Information Decomposition (PID), offering an accuracy-agnostic approach to analyze how text and image inputs uniquely and jointly influence model decisions. 
+My Bachelor’s thesis, advised by Prof. Surabhi Narayan, investigates modality bias in Vision-Language Models through Partial Information Decomposition, offering an accuracy-agnostic approach to analyze text and image contributions in Visual Question Answering. 
 
 Outside of research, I’m a trained Carnatic vocalist who grew up around classical music. When I’m not singing, I’m at the gym or out on a trail. And when I’m doing neither, I’m usually tinkering with some weekend project I convinced myself would ‘only take an hour'.
 
