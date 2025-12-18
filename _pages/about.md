@@ -7,18 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I’m a final-year Computer Science undergraduate at PES University, Bangalore, specializing in Machine Intelligence and Data Science. My primary research interests lie in Multimodal Learning, LLM Robustness, and Applied Machine Learning. I’ve also worked extensively on robotic perception systems.
+I’m a final-year Computer Science undergraduate at PES University, Bengaluru, specializing in Machine Intelligence and Data Science. My research interests center on multimodal learning, LLM robustness, and applied machine learning, with some experience in robotic perception systems.
 
-Currently, I’m exploring Multi-Agent Path Finding (MAPF), working with Rishi Veerapaneni at Carnegie Mellon University Robotics Institute.
+Currently, I’m working on Multi-Agent Path Finding (MAPF) with Rishi Veerapaneni at the Carnegie Mellon University Robotics Institute. 
 
-In the summer of 2025, I joined [Hannah Brown](https://hannah-aught.github.io/) at the National University of Singapore, School of Computing, as a Research Intern, advised by [Prof. Michael Qizhe Shieh.](https://www.comp.nus.edu.sg/cs/people/mshieh/) 
+Previously, in Summer 2025, I was a research intern at the National University of Singapore, School of Computing, working with [Hannah Brown](https://hannah-aught.github.io/) and advised by [Prof. Michael Qizhe Shieh.](https://www.comp.nus.edu.sg/cs/people/mshieh/)
 
-My Bachelor’s thesis, advised by Prof. Surabhi Narayan, investigates modality bias in Vision-Language Models through Partial Information Decomposition, offering an accuracy-agnostic approach to analyze text and image contributions in Visual Question Answering. 
+My bachelor’s thesis, advised by Prof. Surabhi Narayan, investigates modality bias in vision-language models using Partial Information Decomposition. The goal is to analyze text and image contributions in visual question answering without relying solely on accuracy-based metrics.
 
-Outside of research, I’m a trained Carnatic vocalist who grew up around classical music. When I’m not singing, I’m at the gym or out on a trail. And when I’m doing neither, I’m usually tinkering with some weekend project I convinced myself would ‘only take an hour'.
+Outside of research, I’m a trained Carnatic vocalist. When I’m not singing, I’m at the gym or out on a trail. And when I’m doing neither, I’m usually tinkering with some weekend project I convinced myself would ‘only take an hour'.
 
-I’m always excited to take on impactful research projects — reach out if our interests align, or simply if you’d like to connect!
-
+I’m always excited to collaborate on impactful research - feel free to reach out if our interests align, or if you’d simply like to connect!
 
 <!-- Getting started
 ======
