@@ -9,9 +9,7 @@ redirect_from:
 
 I’m a final-year Computer Science undergraduate at PES University, Bengaluru, specializing in Machine Intelligence and Data Science. My research interests center on multimodal learning, LLM robustness, and applied machine learning, with some experience in robotic perception systems.
 
-Currently, I’m working on Multi-Agent Path Finding (MAPF) with Rishi Veerapaneni at the Carnegie Mellon University Robotics Institute. 
-
-Previously, in Summer 2025, I was a research intern at the National University of Singapore, School of Computing, working with [Hannah Brown](https://hannah-aught.github.io/) and advised by [Prof. Michael Qizhe Shieh.](https://www.comp.nus.edu.sg/cs/people/mshieh/)
+Currently, I’m working on Multi-Agent Path Finding (MAPF) with Rishi Veerapaneni at the Carnegie Mellon University Robotics Institute. Previously, in Summer 2025, I was a research intern at the National University of Singapore, School of Computing, working with [Hannah Brown](https://hannah-aught.github.io/) and advised by [Prof. Michael Qizhe Shieh.](https://www.comp.nus.edu.sg/cs/people/mshieh/)
 
 My bachelor’s thesis, advised by Prof. Surabhi Narayan, investigates modality bias in vision-language models using Partial Information Decomposition. The goal is to analyze text and image contributions in visual question answering without relying solely on accuracy-based metrics.
 
