@@ -41,15 +41,3 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
-
-/* Remove link underlines globally */
-a {
-  text-decoration: none;
-  border-bottom: none;
-}
-
-a:hover,
-a:focus {
-  border-bottom: none;
-   opacity: 0.8;
-}
