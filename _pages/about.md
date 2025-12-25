@@ -13,7 +13,7 @@ Currently, I’m working on Multi-Agent Path Finding (MAPF) with Rishi Veerapane
 
 My bachelor’s thesis, advised by Prof. Surabhi Narayan, investigates modality bias in vision-language models using Partial Information Decomposition. The goal is to analyze text and image contributions in visual question answering without relying solely on accuracy-based metrics.
 
-Outside of research, I’m a trained Carnatic vocalist. When I’m not singing, I’m at the gym or out on a trail. And when I’m doing neither, I’m usually tinkering with some weekend project I convinced myself would ‘only take an hour'.
+Outside of research, I’m a trained Carnatic vocalist. When I’m not singing, I’m usually tinkering with some weekend project I convinced myself would ‘only take an hour'.
 
 I’m always excited to collaborate on impactful research - feel free to reach out if our interests align, or if you’d simply like to connect!
 
