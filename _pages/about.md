@@ -11,7 +11,7 @@ I’m a final-year Computer Science undergraduate at PES University, specializin
 
 Currently, I’m working on Multi-Agent Path Finding (MAPF) with Rishi Veerapaneni at the Carnegie Mellon University Robotics Institute. Previously, in Summer 2025, I was a research intern at the National University of Singapore, School of Computing, working with [Hannah Brown](https://hannah-aught.github.io/) and advised by [Prof. Michael Qizhe Shieh.](https://www.comp.nus.edu.sg/cs/people/mshieh/)
 
-My bachelor’s thesis, advised by Prof. Surabhi Narayan, investigates modality bias in vision-language models using Partial Information Decomposition. The goal is to analyze text and image contributions in visual question answering without relying solely on accuracy-based metrics.
+My bachelor’s thesis, advised by [Prof. Surabhi Narayan](https://staff.pes.edu/nm1306/), investigates modality bias in vision-language models using Partial Information Decomposition. The goal is to analyze text and image contributions in visual question answering without relying solely on accuracy-based metrics.
 
 Outside of research, I’m a trained Carnatic vocalist. When I’m not singing, I’m usually tinkering with some weekend project I convinced myself would ‘only take an hour'.
 
