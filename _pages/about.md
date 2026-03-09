@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I’m a final-year Computer Science undergraduate at PES University, specializing in Machine Intelligence and Data Science. My research interests focus on multimodal learning, LLM robustness, and applied machine learning, with experience in robotic planning and perception.
+I’m a final-year Computer Science undergraduate at PES University, specializing in Machine Intelligence and Data Science. My research interests lie in embodied AI and multimodal learning, with a focus on improving their robustness in high-risk real-world applications.
 
-Currently, I’m working on Multi-Agent Path Finding (MAPF) with Rishi Veerapaneni at the Carnegie Mellon University Robotics Institute. Previously, in Summer 2025, I was a research intern at the National University of Singapore, School of Computing, working with [Hannah Brown](https://hannah-aught.github.io/) and advised by [Prof. Michael Qizhe Shieh.](https://michaelshieh.com/)
+Currently, I work on Multi-Agent Path Finding (MAPF) with Rishi Veerapaneni at the Robotics Institute, Carnegie Mellon University. Previously, I was a research intern at the National University of Singapore, where I worked with [Hannah Brown](https://hannah-aught.github.io/) and was advised by [Prof. Michael Qizhe Shieh](https://michaelshieh.com/) on adversarial robustness in LLMs.
 
-My bachelor’s thesis, advised by [Prof. Surabhi Narayan](https://staff.pes.edu/nm1306/), investigates modality bias in vision-language models using Partial Information Decomposition. The goal is to analyze text and image contributions in visual question answering without relying solely on accuracy-based metrics.
+My bachelor’s thesis, advised by [Prof. Surabhi Narayan](https://staff.pes.edu/nm1306/), studies modality bias in vision-language models using Partial Information Decomposition.
 
-Outside of research, I’m a trained Carnatic Classical vocalist.
+Outside of research, I’m a trained Carnatic classical vocalist.
 
-I’m always excited to collaborate on impactful research - feel free to reach out if our interests align, or if you’d simply like to connect!
+I’m always open to collaboration - feel free to reach out if our interests align, or if you’d simply like to connect!
 
 <!-- Getting started
 ======
