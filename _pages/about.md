@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm an MSR student at the Robotics Institute, Carnegie Mellon University. My research interests lie in embodied AI and multimodal learning, particularly at the intersection of robustness and real-world deployment.
+I'm an MSR student at the [Robotics Institute, Carnegie Mellon University](https://www.cs.cmu.edu/). My research interests lie in embodied AI and multimodal learning, particularly at the intersection of robustness and real-world deployment.
 
 Currently, I work on Multi-Agent Path Finding (MAPF) with Rishi Veerapaneni at CMU. Previously, I was a research intern at the National University of Singapore, where I worked with [Hannah Brown](https://hannah-aught.github.io/) under the supervision of [Prof. Michael Qizhe Shieh](https://michaelshieh.com/) on adversarial robustness in LLMs.
 
-My undergraduate studies were in Computer Science at PES University, where I specialized in Machine Intelligence and Data Science. My undergraduate thesis explored modality bias in vision-language models through the lens of Partial Information Decomposition.
+My undergraduate studies were in Computer Science at [PES University](https://pes.edu/about/), where I specialized in Machine Intelligence and Data Science. My undergraduate thesis explored modality bias in vision-language models through the lens of Partial Information Decomposition.
 
 Outside of research, I'm a Carnatic classical singer, and you'll often find me watching anime and occasionally overthinking life. 💭
 
