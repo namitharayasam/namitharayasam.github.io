@@ -45,3 +45,7 @@ $sidebar-screen-min-width   : 1024px;
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$lighter-gray};
 }
+
+.masthead__menu-item--lg {
+  margin-right: auto;
+}
