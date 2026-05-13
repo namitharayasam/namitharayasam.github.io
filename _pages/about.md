@@ -13,7 +13,7 @@ Currently, I work on Multi-Agent Path Finding (MAPF) with Rishi Veerapaneni at C
 
 My undergraduate studies were in Computer Science at [PES University](https://pes.edu/about/), where I specialized in Machine Intelligence and Data Science. My undergraduate thesis explored modality bias in vision-language models through the lens of Partial Information Decomposition.
 
-Outside of research, I'm a Carnatic classical singer, and you'll often find me watching anime and occasionally overthinking life. 💭
+Outside of research, I'm a Carnatic classical singer, and you'll often find me learning about neuroscience and occasionally overthinking life. 💭
 
 I'm always happy to connect, whether for collaboration or conversations that go beyond the usual. 
 
