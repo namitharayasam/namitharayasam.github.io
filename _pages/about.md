@@ -28,7 +28,7 @@ Hello! I'm an incoming Master's in Robotics (MSR) student at the [Robotics Insti
 
 Currently, I work on Multi-Agent Path Finding (MAPF) with [Rishi Veerapaneni](https://rishi-v.github.io/) at CMU. Previously, I was a research intern at the [National University of Singapore](https://www.nus.edu.sg/), where I worked with [Hannah Brown](https://hannah-aught.github.io/) under the supervision of [Prof. Michael Qizhe Shieh](https://michaelshieh.com/) on adversarial robustness in LLMs.
 
-I completed my undergraduate studies in Computer Science at [PES University](https://pes.edu/about/), specializing in Machine Intelligence and Data Science. During this time, I also developed a bio-inspired SLAM system that localizes robots using event-camera data, leveraging brain-inspired attractor dynamics to achieve self-correcting spatial memory through loop closure.
+I completed my undergraduate studies in Computer Science at [PES University](https://pes.edu/about/), specializing in Machine Intelligence and Data Science. During this time, I also developed a bio-inspired SLAM system that localizes robots using event-camera data, leveraging brain-inspired attractor dynamics for self-correcting spatial memory.
 
 Outside of research, I'm a Carnatic classical singer. I'm endlessly curious about behavioural neuroscience and biohacking. Send me your favorite obscure brain fact.
 
