@@ -30,6 +30,6 @@ Currently, I work on Multi-Agent Path Finding (MAPF) with [Rishi Veerapaneni](ht
 
 I completed my undergraduate studies in Computer Science at [PES University](https://pes.edu/about/), specializing in Machine Intelligence and Data Science. During this time, I also developed a bio-inspired SLAM system that localizes robots using event-camera data, leveraging brain-inspired attractor dynamics for self-correcting spatial memory.
 
-Outside of research, I'm a Carnatic classical singer. I'm endlessly curious about behavioural neuroscience and biohacking. Send me your favorite obscure brain fact.
+Outside of research, I'm a Carnatic classical singer. I'm also endlessly curious about behavioural neuroscience and biohacking. Send me your favorite obscure brain fact.
 
 Feel free to reach out if you’d like to discuss research, collaborations, or interesting ideas!
