@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-27'
 papers:
   _F-2xLMAAAAJ:9yKSN-GCB0IC:
     citations: 0
@@ -8,7 +8,7 @@ papers:
   _F-2xLMAAAAJ:u-x6o8ySG0sC:
     citations: 0
     title: Quantifying Modality Contributions via Disentangling Multimodal Representations
-    year: '2025'
+    year: '2026'
   _F-2xLMAAAAJ:u5HHmVD_uO8C:
     citations: 1
     title: Multimodal Sentiment Analysis for Interviews and Proctoring
