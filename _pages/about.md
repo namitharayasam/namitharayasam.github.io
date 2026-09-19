@@ -24,7 +24,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hello! I’m a Master’s in Robotics student at the [Robotics Institute, Carnegie Mellon University](https://www.ri.cmu.edu/), advised by Prof. Jiaoyang Li. I'm interested in long-horizon planning and manipulation for multi-robot collaboration.
+Hello! I’m a Master’s in Robotics student at the [Robotics Institute, Carnegie Mellon University](https://www.ri.cmu.edu/), advised by [Prof. Jiaoyang Li](https://jiaoyangli.me/). I'm interested in long-horizon planning and manipulation for multi-robot collaboration.
 
 Previously, I worked on Multi-Agent Path Finding (MAPF) with [Rishi Veerapaneni](https://rishi-v.github.io/) at CMU. I also interned at the [National University of Singapore](https://www.nus.edu.sg/), where I worked with [Hannah Brown](https://hannah-aught.github.io/) under the supervision of [Prof. Qizhe Xie](https://qizhex.com/) on adversarial robustness in LLMs.
 
